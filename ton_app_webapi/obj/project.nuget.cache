@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYxgPt4hEI/32uyJQ+dsM92nX7hmSN1/Kd6iQfJHqBdF+qlKt9jNg+X/b46LxQ6S2Tfquaf47BieSLodXG8uuA==",
+  "success": true,
+  "projectFilePath": "/Users/akobiyada/Documents/SpecialProjects/TON_app/ton_app_backend/ton_app_webapi/ton_app_webapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/akobiyada/.nuget/packages/justcrc32c/1.2.0/justcrc32c.1.2.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/nacl.net/0.1.13/nacl.net.0.1.13.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/tonsdk.adnl/0.1.5/tonsdk.adnl.0.1.5.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/tonsdk.client/0.3.2/tonsdk.client.0.3.2.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/tonsdk.connect/0.2.3/tonsdk.connect.0.2.3.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/tonsdk.contracts/0.3.1/tonsdk.contracts.0.3.1.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/tonsdk.core/0.3.1/tonsdk.core.0.3.1.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,205 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ton_app_webapi/1.0.0": {
+        "dependencies": {
+          "TonSdk.Adnl": "0.1.5",
+          "TonSdk.Client": "0.3.2",
+          "TonSdk.Connect": "0.2.3",
+          "TonSdk.Contracts": "0.3.1",
+          "TonSdk.Core": "0.3.1"
+        },
+        "runtime": {
+          "ton_app_webapi.dll": {}
+        }
+      },
+      "JustCRC32C/1.2.0": {
+        "dependencies": {
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/net7.0/JustCRC32C.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "NaCl.Net/0.1.13": {
+        "runtime": {
+          "lib/netstandard2.1/NaCl.dll": {
+            "assemblyVersion": "0.1.13.0",
+            "fileVersion": "0.1.13.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.1"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {},
+      "TonSdk.Adnl/0.1.5": {
+        "dependencies": {
+          "TonSdk.Core": "0.3.1"
+        },
+        "runtime": {
+          "lib/net7.0/TonSdk.Adnl.dll": {
+            "assemblyVersion": "0.1.5.0",
+            "fileVersion": "0.1.5.0"
+          }
+        }
+      },
+      "TonSdk.Client/0.3.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "TonSdk.Adnl": "0.1.5",
+          "TonSdk.Core": "0.3.1"
+        },
+        "runtime": {
+          "lib/net7.0/TonSdk.Client.dll": {
+            "assemblyVersion": "0.3.2.0",
+            "fileVersion": "0.3.2.0"
+          }
+        }
+      },
+      "TonSdk.Connect/0.2.3": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "NaCl.Net": "0.1.13",
+          "Newtonsoft.Json": "13.0.3",
+          "TonSdk.Core": "0.3.1"
+        },
+        "runtime": {
+          "lib/net7.0/TonSdk.Connect.dll": {
+            "assemblyVersion": "0.2.3.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "TonSdk.Contracts/0.3.1": {
+        "dependencies": {
+          "TonSdk.Core": "0.3.1"
+        },
+        "runtime": {
+          "lib/net7.0/TonSdk.Contracts.dll": {
+            "assemblyVersion": "0.3.1.0",
+            "fileVersion": "0.3.1.0"
+          }
+        }
+      },
+      "TonSdk.Core/0.3.1": {
+        "dependencies": {
+          "JustCRC32C": "1.2.0",
+          "Portable.BouncyCastle": "1.9.0"
+        },
+        "runtime": {
+          "lib/net7.0/TonSdk.Core.dll": {
+            "assemblyVersion": "0.3.1.0",
+            "fileVersion": "0.3.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ton_app_webapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JustCRC32C/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WFGyu5tOvBauAPWVkRsHjRum+gSIocmmnKvFFC2FtPJs/RN8/JOoID41Dw1wN4chWWRZ+1FcjIEwhN6WwnVBYA==",
+      "path": "justcrc32c/1.2.0",
+      "hashPath": "justcrc32c.1.2.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "NaCl.Net/0.1.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AVg1455RQnyTy6tiessudruZHvbl70QWRPyx3og2I1Fei17LDNc7Z3DRgqN2+PsySBui/1EDP4A7adhQXydi6g==",
+      "path": "nacl.net/0.1.13",
+      "hashPath": "nacl.net.0.1.13.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
+      "path": "portable.bouncycastle/1.9.0",
+      "hashPath": "portable.bouncycastle.1.9.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "TonSdk.Adnl/0.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zjmHf011Uxg//O3i+vYVDL1tf6GHdFvO7i2AmIMq7U5JGlVU/mqcQB1yhSiHEauqbaxYKd+PrixpjkYSSiEcg==",
+      "path": "tonsdk.adnl/0.1.5",
+      "hashPath": "tonsdk.adnl.0.1.5.nupkg.sha512"
+    },
+    "TonSdk.Client/0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vNXJpBMxHhg+bwFykrjvE89Tl5elFeHc0w6fQZgD/dqD0bt7v+8QWJKkZR0zLlUj9bt0PZelnpDUG0IIs5py1g==",
+      "path": "tonsdk.client/0.3.2",
+      "hashPath": "tonsdk.client.0.3.2.nupkg.sha512"
+    },
+    "TonSdk.Connect/0.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jtifyCtoJHg40dbCvnx2rjhCy3A5rjof28/o49rco0GsZum5olnxrpiDDOASlKV85QFqkwFM9g9e8Dr5ueLIEA==",
+      "path": "tonsdk.connect/0.2.3",
+      "hashPath": "tonsdk.connect.0.2.3.nupkg.sha512"
+    },
+    "TonSdk.Contracts/0.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UOA3NBSNwftj4tjJOYrUobNtXIXFU3kRpM7LCej5eSCDDC6D4IBeYwuHuulFJ8XXRjbZvvVxNpIXkfQzi5zb0w==",
+      "path": "tonsdk.contracts/0.3.1",
+      "hashPath": "tonsdk.contracts.0.3.1.nupkg.sha512"
+    },
+    "TonSdk.Core/0.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8KFPb2G0NljA7/p1zCZiCkRxrl/R3Gx97J67ICqCJuAnO8walON0v1AnT6+WmnmUF/86C6YsPPii0Hv9+0KacA==",
+      "path": "tonsdk.core/0.3.1",
+      "hashPath": "tonsdk.core.0.3.1.nupkg.sha512"
+    }
+  }
+}
